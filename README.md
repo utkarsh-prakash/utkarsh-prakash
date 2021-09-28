@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash</h1>
 <h4 align="center">I am working as a data scientist in the industry for about 2 years. Always open to work, learn, discussions, suggestions or even a simple hi :) </h4>
 <a href="mailto:utkarshprakash008@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="E-Mail" width="100" length="60" style="background-color:white"/> </a>
-<span style="background-color:white;"><a href="https://www.linkedin.com/in/utkarshprakash2911/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="100" length="60"/> </a></span>
+<a href="https://www.linkedin.com/in/utkarshprakash2911/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="100" length="60"/> </a>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
@@ -35,6 +35,8 @@
 <a href="https://github.com/utkarsh-prakash/Anamoly-Detection" target="_blank">Anomaly Detection in Time Series data</a><br>
 <a href="https://github.com/utkarsh-prakash/Text-Classification-Using-BERT" target="_blank">Text Classification using BERT</a><br>
 <a href="https://github.com/utkarsh-prakash/Gradio" target="_blank">Gradio</a> - Create Customizable UI for Deep Learning Models<br>
+<a href="https://github.com/utkarsh-prakash/Tensorflow-Developer" target="_blank">TensorFlow Basics</a><br>
+<a href="https://github.com/utkarsh-prakash/Google-Colab-Notebooks/blob/main/Multi_Model_Training.ipynb" target="_blank">Training Multiple Models</a><br>
 
 <h3 align="left">Capstone Projects</h3>
 <a href="https://github.com/utkarsh-prakash/IMDB-Analysis" target="_blank">IMDB Score Analysis</a><br>
