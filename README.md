@@ -38,6 +38,7 @@
 <a href="https://github.com/utkarsh-prakash/Tensorflow-Developer" target="_blank">TensorFlow Basics</a><br>
 <a href="https://github.com/utkarsh-prakash/Google-Colab-Notebooks/blob/main/Multi_Model_Training.ipynb" target="_blank">Training Multiple Connected Neural Networks</a><br>
 <a href="https://github.com/utkarsh-prakash/hands_on_machine_learning" target="_blank">Hands on Machine Learning</a> - Basic Scikit-Learn implementations<br>
+<a href="https://github.com/utkarsh-prakash/advanced_python" target="_blank">Advanced Python</a> - OOPs and Concurrency<br>
 
 <h3 align="left">Capstone Projects</h3>
 <a href="https://github.com/utkarsh-prakash/IMDB-Analysis" target="_blank">IMDB Score Analysis</a><br>
