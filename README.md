@@ -20,6 +20,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-prakash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Repositories Walkthrough:</h2>
 <h3 align="left">Projects</h3>
@@ -44,3 +46,6 @@
 <a href="https://github.com/utkarsh-prakash/IMDB-Analysis" target="_blank">IMDB Score Analysis</a><br>
 <a href="https://github.com/utkarsh-prakash/Seatle-Accidents" target="_blank">Seattle Accidents Analysis</a><br>
 <a href="https://github.com/utkarsh-prakash/Spam-Detector" target="_blank">Spam Detector</a><br>
+
+<br><br>
+
