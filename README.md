@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash</h1>
-<h4 align="center">I am working as a data scientist in the industry for about 2 years. Always open to work, learn, discussions, suggestions or even a simple hi :) </h4>
+<h4 align="center">I am working as a data scientist in the industry for over 3 years. Always open to work, learn, discussions, suggestions or even a simple hi :) </h4>
 <a href="mailto:utkarshprakash008@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="E-Mail" width="100" length="60" align="center"/> </a>
 <a href="https://www.linkedin.com/in/utkarshprakash2911/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" length="60" align="center"/> </a>
 
