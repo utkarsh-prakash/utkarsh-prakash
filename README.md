@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash</h1>
-<h4 align="center">I am working as a data scientist in the industry for over 3 years. Always open to work, learn, discussions, suggestions or even a simple hi :) </h4>
+<h4 align="center">I am working as a data scientist in the industry for over 4 years. Always open to work, learn, discussions, suggestions or even a simple hi :) </h4>
 <a href="mailto:utkarshprakash008@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="E-Mail" width="100" length="60" align="center"/> </a>
 <a href="https://www.linkedin.com/in/utkarshprakash2911/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" length="60" align="center"/> </a>
+
+[![An image of @utkarsh29prakash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh29prakash)](https://holopin.io/@utkarsh29prakash)
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
